@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer specializing in Python, Machine Learning, and Deep Learning</h3>
 
 <p align="center">
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/code_interpreter_3_YeIlJVP.jpg" alt="Faraz Hosseinian Banner" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/code_interpreter_3_YeIlJVP.jpg" alt="Faraz Hosseinian Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <p align="left">
